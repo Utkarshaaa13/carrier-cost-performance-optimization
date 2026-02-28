@@ -49,8 +49,14 @@ On-time performance was calculated as the average of the binary on-time indicato
 
 ## Conclusion
 
-- Carrier evaluation should incorporate operational context, not just aggregate metrics  
-- Distance segmentation provides clearer visibility into performance differences  
-- A distance-based carrier allocation strategy supports both cost efficiency and reliability
+1. Carrier performance analysis indicates that higher transportation cost does not consistently translate into superior reliability. Aggregate averages mask structural variation across operational distance segments.
+
+2. UPS demonstrates relatively higher cost without a proportional reliability advantage, suggesting potential misalignment between spend concentration and service performance.
+
+3. FedEx maintains strong reliability in long-haul segments, supporting its use in performance-sensitive lanes where delay risk carries higher operational impact.
+   
+4. USPS and other cost-efficient carriers deliver comparable reliability in short and mid-range segments, presenting opportunities to reduce average shipment cost without increasing service risk.
+
+5. Overall, the findings support a distance-aware carrier allocation strategy which allows shipment volume to be distributed based on performance strengths, improving cost efficiency while maintaining reliability.
 
 https://public.tableau.com/app/profile/utkarsha.chandgadkar/viz/CarrierCostandPerformanceOptimizationAnalysis/Story1?publish=yes
