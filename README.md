@@ -51,4 +51,6 @@ On-time performance was calculated as the average of the binary on-time indicato
 
 - Carrier evaluation should incorporate operational context, not just aggregate metrics  
 - Distance segmentation provides clearer visibility into performance differences  
-- A distance-based carrier allocation strategy supports both cost efficiency and reliability  
+- A distance-based carrier allocation strategy supports both cost efficiency and reliability
+
+https://public.tableau.com/app/profile/utkarsha.chandgadkar/viz/CarrierCostandPerformanceOptimizationAnalysis/Story1?publish=yes
