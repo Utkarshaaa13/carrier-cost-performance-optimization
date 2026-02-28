@@ -1,4 +1,4 @@
-# Carrier-Cost-Performance-Optimization
+# Carrier Cost-Performance Optimization
 Shipping carrier performance analysis focused on cost efficiency and distance-based allocation strategy.
 
 ## Overview
