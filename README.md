@@ -14,10 +14,10 @@ Do higher-cost carriers actually deliver better? This project tests that assumpt
  4. SQL — CTEs and window functions for carrier performance queries
 
 # Key Findings
-UPS has the highest average cost but lowest on-time percentage
-FedEx justifies premium cost in long haul lanes with strong reliability
-USPS and Amazon Logistics deliver comparable reliability at lower cost
-Performance varies by distance — aggregate averages hide the real story
-A distance-aware allocation strategy improves cost efficiency without sacrificing reliability
+1. UPS has the highest average cost but lowest on-time percentage
+2. FedEx justifies premium cost in long haul lanes with strong reliability
+3. USPS and Amazon Logistics deliver comparable reliability at lower cost
+4. Performance varies by distance — aggregate averages hide the real story
+5. A distance-aware allocation strategy improves cost efficiency without sacrificing reliability
 
 https://public.tableau.com/app/profile/utkarsha.chandgadkar/viz/CarrierCostandPerformanceOptimizationAnalysis/Story1
