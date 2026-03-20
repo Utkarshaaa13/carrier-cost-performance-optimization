@@ -2,7 +2,7 @@
 Analysis of shipping carrier cost and on-time reliability across distance segments to support smarter carrier allocation decisions.
 
 # Problem
-Do higher-cost carriers actually deliver better? This project tests that assumption using real shipment data — and finds it does not always hold.
+Do higher-cost carriers actually deliver better? This project tests that assumption using real shipment data and finds it does not always hold.
 
 # Dataset
 1,648 delivered shipments across 7 carriers segmented into 4 distance buckets: 0–300, 301–600, 601–900, and 900+ miles.
