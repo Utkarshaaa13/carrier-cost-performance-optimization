@@ -1,4 +1,4 @@
-# Carrier Cost-Performance Optimization
+# Does Higher Cost Mean Better Delivery? Carrier Cost Performance Analysis for a Logistics Company
 Analysis of shipping carrier cost and on-time reliability across distance segments to support smarter carrier allocation decisions.
 
 ## Business Questions
@@ -11,16 +11,16 @@ The analysis answers five business questions:
 4. How does each carrier perform across every distance bucket?
 5. Which carrier should be preferred per distance bucket based on cost and reliability combined?
 
-# Dataset
+## Dataset
 1,648 delivered shipments across 7 carriers segmented into 4 distance buckets: 0–300, 301–600, 601–900, and 900+ miles.
 
-# Tools Used
+## Tools Used
  1. Python / Pandas — data cleaning and preparation
  2. Snowflake — cloud data warehouse and SQL analysis
  3. Tableau — interactive dashboard
  4. SQL — CTEs and window functions for carrier performance queries
 
-# Key Findings
+## Key Findings
 1. UPS has the highest average cost but lowest on-time percentage
 2. FedEx justifies premium cost in long haul lanes with strong reliability
 3. USPS and Amazon Logistics deliver comparable reliability at lower cost
