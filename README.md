@@ -8,10 +8,10 @@ Do higher-cost carriers actually deliver better? This project tests that assumpt
 1,648 delivered shipments across 7 carriers segmented into 4 distance buckets: 0–300, 301–600, 601–900, and 900+ miles.
 
 # Tools Used
-Python / Pandas — data cleaning and preparation
-Snowflake — cloud data warehouse and SQL analysis
-Tableau — interactive dashboard
-SQL — CTEs and window functions for carrier performance queries
+ 1. Python / Pandas — data cleaning and preparation
+ 2. Snowflake — cloud data warehouse and SQL analysis
+ 3. Tableau — interactive dashboard
+ 4. SQL — CTEs and window functions for carrier performance queries
 
 # Key Findings
 UPS has the highest average cost but lowest on-time percentage
