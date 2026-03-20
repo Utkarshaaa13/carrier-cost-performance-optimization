@@ -1,8 +1,15 @@
 # Carrier Cost-Performance Optimization
 Analysis of shipping carrier cost and on-time reliability across distance segments to support smarter carrier allocation decisions.
 
-# Problem
+## Business Questions
 Do higher-cost carriers actually deliver better? This project tests that assumption using real shipment data and finds it does not always hold.
+The analysis answers five business questions:
+
+1. Which carrier has the highest cost and lowest reliability overall?
+2. How does UPS performance vary across distance segments?
+3. Which carrier is most efficient for short haul shipments (0–300 miles)?
+4. How does each carrier perform across every distance bucket?
+5. Which carrier should be preferred per distance bucket based on cost and reliability combined?
 
 # Dataset
 1,648 delivered shipments across 7 carriers segmented into 4 distance buckets: 0–300, 301–600, 601–900, and 900+ miles.
